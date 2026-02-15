@@ -1,0 +1,16 @@
+-r base.txt
+
+Sphinx==9.0.4
+sphinx-removed-in
+docutils
+
+flake8
+epydoc
+coverage
+factory_boy
+mock
+pydot
+# linting tools
+pylint-django==2.6.1
+twine
+pyOpenSSL

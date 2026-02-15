@@ -1,0 +1,26 @@
+-r tarballs.txt
+
+allpairspy==2.5.1
+bleach==6.3.0
+bleach-allowlist==1.0.3
+defusedxml==0.7.1
+Django==5.2.11
+django-attachments==1.12
+django-colorfield==0.14.0
+django-contrib-comments==2.2.0
+django-extensions==4.1
+django-grappelli==4.0.3
+django-guardian==3.2.0
+django-modern-rpc==1.1.0
+django-simple-history==3.11.0
+django-tree-queries==0.23.0
+jira==3.10.5
+Markdown==3.10.1
+# transient dependency of django-color-field/django-simple-captcha
+pillow==11.3.0
+PyGithub==2.8.1
+Pygments==2.19.2
+python-gitlab==8.0.0
+python-redmine==2.5.0
+topicaxis-opengraph==0.5
+tzdata==2025.3
